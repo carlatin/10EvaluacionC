@@ -1,0 +1,36 @@
+.filainicio{
+	background: #000000;
+	height: 150px;
+}
+.bli{
+	height: 150px;
+}
+.menud{
+	font-size: 25px;
+	color: #FFF;
+	height: 50px;
+	background: #1C2855  ;
+}
+button{
+	font-size: 25px;
+	color: #FFF;
+	height: 50px;
+	background: #1C2855  ;
+	border: none;
+	width: 100%;
+}
+button:hover{
+	background: #144058 ;
+	color: #FFF;
+	font-size: 25px;
+	height: 50px;
+	border: none;
+	width: 100%;
+}
+.tamaño{
+	width: 100%;
+	height: 700px;
+}
+body{
+	background: #000000;
+}
